@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of Optimism crypto chain.",
+  "questions": [
+    {
+      "question": "What is Optimism?",
+      "answers": ["L2", "Coin", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Optimism is built on?",
+      "answers": ["ETH", "BTC", "SOL"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP token use?",
+      "answers": ["Gov", "Trade", "Farm"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Optimism boosts?",
+      "answers": ["Speed", "Cost", "Security"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP Labs is?",
+      "answers": ["Team", "DAO", "Tech"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "When was OP launched?",
+      "answers": ["2020", "2021", "2022"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "OP uses?",
+      "answers": ["Rollup", "Plasma", "Shards"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP governance?",
+      "answers": ["DAO", "Board", "Voting"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Optimism's aim?",
+      "answers": ["Scal", "Save", "Secure"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP token type?",
+      "answers": ["ERC20", "ERC721", "BEP20"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Rollups are?",
+      "answers": ["Layer2", "Layer1", "Side"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP reduces?",
+      "answers": ["Gas", "Stake", "Nodes"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP's network?",
+      "answers": ["Main", "Test", "Side"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP partners?",
+      "answers": ["Uniswp", "Binance", "Kraken"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Main goal of OP?",
+      "answers": ["Scal", "Decent", "Private"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP handles?",
+      "answers": ["Txs", "Blocks", "Nodes"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP token utility?",
+      "answers": ["Gov", "Pay", "NFTs"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP security?",
+      "answers": ["ETH", "BTC", "SOL"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP launched on?",
+      "answers": ["ETH", "BTC", "BSC"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OP's main use?",
+      "answers": ["Apps", "Games", "Files"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
